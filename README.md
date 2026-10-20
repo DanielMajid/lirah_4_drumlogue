@@ -28,17 +28,17 @@
 6. `FM TUNE` (`0..100`): Modulator tuning offset.
 7. `PITCH` (`0..100`): Carrier tuning offset.
 8. `FEEDBACK` (`0..100`): Feedback amount.
-9. `LFO TARGET` (`0..8`): Selects destination for the global LFO3 lane.
-10. `LFO RATE` (`0..100`): Rate for the global LFO3 lane.
-11. `LFO DEPTH` (`0..100`): Depth amount for the global LFO3 lane.
+9. `LFO TARGET` (`0..8`): Selects destination for the LFO3 lane.
+10. `LFO RATE` (`0..100`): Rate for the global lane.
+11. `LFO DEPTH` (`0..100`): Depth amount for the LFO3 lane.
 12. `FM SPREAD` (`0..100`): FM depth spread across active voices.
 13. `FOLD SPRD` (`0..100`): Fold spread across active voices.
 14. `FDBK SPRD` (`0..100`): Feedback spread across active voices.
 15. `TUN SPREAD` (`0..100`): Tune spread (detune) across active voices.
-16. `ENV TYPE` (`0..4`): Envelope mode selector.
-17. `ENV RANGE` (`0..2`): Envelope speed range (`FAST`, `MED`, `SLOW`).
-18. `ATTACK` (`0..100`): Envelope attack time control.
-19. `RELEASE` (`0..100`): Envelope release time control.
+16. `ENV TYPE` (`0..4`): VCA Envelope mode selector.
+17. `ENV RANGE` (`0..2`): VCA Envelope speed range (`FAST`, `MED`, `SLOW`).
+18. `ATTACK` (`0..100`): VCA Envelope attack time control.
+19. `RELEASE` (`0..100`): VCA Envelope release time control.
 
 # `LFO TARGET` Map
 
