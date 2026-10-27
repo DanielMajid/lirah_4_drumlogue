@@ -30,7 +30,7 @@ include config.mk
 #
 
 # Define project name here
-PROJECT ?= my_unit
+PROJECT ?= Lirah-4
 
 # Target architecture
 TARGET_ARCH := armv7a
