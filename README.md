@@ -1,6 +1,6 @@
 # Lirah-4 Drumlogue Synth Unit
 
-`lirah_1_drumlogue` is a four-voice Drumlogue synth unit inspired by the Soma Laboratory Lyra-4 organismic synthesizer. Its sound engine combines two-operator FM, dual Hyper LFO lanes, wavefolding, and feedback.
+`lirah_4_drumlogue` is a four-voice Drumlogue synth unit inspired by the Soma Laboratory Lyra-4 organismic synthesizer. Its sound engine combines two-operator FM, dual Hyper LFO lanes, wavefolding, and feedback.
 
 # Highlights
 
